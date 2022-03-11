@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @YNIKKIBOOTZ
-- 👀 I’m interested in ...finding 
-- 🌱 I’m currently learning ... who
-- 💞️ I’m looking to collaborate on ... getting circles
-- 📫 How to reach me ... nikki.bootz@yahoo.com 
+- 👋 Hi, I’m @YNIKKIBOOTZ!
+- 👀 I’m interested in many things. 
+- 🌱 I’m currently learning integration.
+- 💞️ I’m looking to collaborate on learning basics.
+- 📫 How to reach me ... nikki.bootz@yahoo.com
 
 <!---
 YNIKKIBOOTZ/YNIKKIBOOTZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
